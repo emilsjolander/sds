@@ -1,4 +1,4 @@
-const { RemoteBrowserTarget } = require('happo.io');
+import { RemoteBrowserTarget } from 'happo.io';
 
 module.exports = {
   apiKey: process.env.HAPPO_API_KEY,
