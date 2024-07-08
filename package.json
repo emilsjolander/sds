@@ -2,7 +2,6 @@
   "name": "sds",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "app:dev": "vite",
     "app:build": "tsc && vite build",
@@ -60,5 +59,8 @@
     "storybook": "^8.1.11",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "happo-plugin-storybook": "^4.3.0"
   }
 }
