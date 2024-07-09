@@ -61,6 +61,7 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "happo-plugin-storybook": "^4.3.0"
+    "happo-plugin-storybook": "^4.3.0",
+    "lost-pixel": "^3.17.0"
   }
 }
